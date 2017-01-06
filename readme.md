@@ -1,6 +1,6 @@
 ##An After Effects Plugin for Creating Charts
 
-[![ScreenShot](https://img.youtube.com/vi/v7lefHGX6fQ/hqdefault.jpg)](https://youtu.be/v7lefHGX6fQ)
+[![ScreenShot](https://img.youtube.com/vi/4mEvQbAaT2Y/hqdefault.jpg)](https://youtu.be/4mEvQbAaT2Y)
 
 *Compiled .aex file is the video description above, click the image to watch the demo video*
 
