@@ -1,0 +1,543 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+resource 'PiPL' (16000) {
+	{	
+		
+		Kind {
+			AEEffect
+		},
+		
+		Name {
+			"XJ_Charter"
+		},
+		
+		Category {
+			"Generate"
+		},
+
+	
+		CodeWin64X86 {"EntryPointFuncM"},
+	
+
+
+
+
+
+
+
+
+
+		
+		AE_PiPL_Version {
+			2,
+			0
+		},
+		
+		AE_Effect_Spec_Version {
+			13,
+			2
+		},
+		
+
+
+
+
+
+
+
+
+
+		AE_Effect_Version {
+			525313	
+		},
+		
+		AE_Effect_Info_Flags {
+			0
+		},
+		
+		AE_Effect_Global_OutFlags {
+		0x00000000
+
+		},
+		AE_Effect_Global_OutFlags_2 {
+		0x00000000
+		},
+		
+		AE_Effect_Match_Name {
+			"XJ_Charter"
+		},
+		
+		AE_Reserved_Info {
+			0
+		}
+	}
+};
+
+resource 'PiPL' (16001) {
+	{	
+		
+		Kind {
+			AEEffect
+		},
+		
+		Name {
+			"XJ_Charter Number"
+		},
+		
+		Category {
+			"Xiao Juan"
+		},
+
+	
+		CodeWin64X86 {"EntryPointFuncN"},
+	
+
+
+
+
+
+
+
+
+
+		
+		AE_PiPL_Version {
+			2,
+			0
+		},
+		
+		AE_Effect_Spec_Version {
+			13,
+			2
+		},
+		
+
+
+
+
+
+
+
+
+
+		AE_Effect_Version {
+			525313	
+		},
+		
+		AE_Effect_Info_Flags {
+			0
+		},
+		
+		AE_Effect_Global_OutFlags {
+		0x00200000 
+
+		},
+		AE_Effect_Global_OutFlags_2 {
+		0x00000000
+		},
+		
+		AE_Effect_Match_Name {
+			"XJ_CharterNUM"
+		},
+		
+		AE_Reserved_Info {
+			0
+		}
+	}
+};
+
+
+resource 'PiPL' (16002) {
+	{	
+		
+		Kind {
+			AEEffect
+		},
+		
+		Name {
+			"XJ_Charter Bar Render"
+		},
+		
+		Category {
+			"Xiao Juan"
+		},
+
+	
+		CodeWin64X86 {"EntryPointFuncB"},
+	
+
+
+
+
+
+
+
+
+
+		
+		AE_PiPL_Version {
+			2,
+			0
+		},
+		
+		AE_Effect_Spec_Version {
+			13,
+			2
+		},
+		
+
+
+
+
+
+
+
+
+
+		AE_Effect_Version {
+			525313	
+		},
+		
+		AE_Effect_Info_Flags {
+			0
+		},
+		
+		AE_Effect_Global_OutFlags {
+		0x00200004 
+
+		},
+		AE_Effect_Global_OutFlags_2 {
+		0x00000000
+		},
+		
+		AE_Effect_Match_Name {
+			"XJ_CharterBARR"
+		},
+		
+		AE_Reserved_Info {
+			0
+		}
+	}
+};
+
+resource 'PiPL' (16003) {
+	{	
+		
+		Kind {
+			AEEffect
+		},
+		
+		Name {
+			"XJ_Charter Pie Render"
+		},
+		
+		Category {
+			"Xiao Juan"
+		},
+
+	
+		CodeWin64X86 {"EntryPointFuncR"},
+	
+
+
+
+
+
+
+
+
+
+		
+		AE_PiPL_Version {
+			2,
+			0
+		},
+		
+		AE_Effect_Spec_Version {
+			13,
+			2
+		},
+		
+
+
+
+
+
+
+
+
+
+		AE_Effect_Version {
+			525313	
+		},
+		
+		AE_Effect_Info_Flags {
+			0
+		},
+		
+		AE_Effect_Global_OutFlags {
+		0x00200004 
+
+		},
+		AE_Effect_Global_OutFlags_2 {
+		0x00000000
+		},
+		
+		AE_Effect_Match_Name {
+			"XJ_CharterRINGR"
+		},
+		
+		AE_Reserved_Info {
+			0
+		}
+	}
+};
+
+resource 'PiPL' (16004) {
+	{	
+		
+		Kind {
+			AEEffect
+		},
+		
+		Name {
+			"XJ_Charter Linker"
+		},
+		
+		Category {
+			"Xiao Juan"
+		},
+
+	
+		CodeWin64X86 {"EntryPointFuncLINK"},
+	
+
+
+
+
+
+
+
+
+
+		
+		AE_PiPL_Version {
+			2,
+			0
+		},
+		
+		AE_Effect_Spec_Version {
+			13,
+			2
+		},
+		
+
+
+
+
+
+
+
+
+
+		AE_Effect_Version {
+			525313	
+		},
+		
+		AE_Effect_Info_Flags {
+			0
+		},
+		
+		AE_Effect_Global_OutFlags {
+		0x00200000 
+
+		},
+		AE_Effect_Global_OutFlags_2 {
+		0x00000000
+		},
+		
+		AE_Effect_Match_Name {
+			"XJ_CharterLINK"
+		},
+		
+		AE_Reserved_Info {
+			0
+		}
+	}
+};
+
+resource 'PiPL' (16005) {
+	{	
+		
+		Kind {
+			AEEffect
+		},
+		
+		Name {
+			"XJ_Charter Line Render"
+		},
+		
+		Category {
+			"Xiao Juan"
+		},
+
+	
+		CodeWin64X86 {"EntryPointFuncL"},
+	
+
+
+
+
+
+
+
+
+
+		
+		AE_PiPL_Version {
+			2,
+			0
+		},
+		
+		AE_Effect_Spec_Version {
+			13,
+			2
+		},
+		
+
+
+
+
+
+
+
+
+
+		AE_Effect_Version {
+			525313	
+		},
+		
+		AE_Effect_Info_Flags {
+			0
+		},
+		
+		AE_Effect_Global_OutFlags {
+		0x00200404
+
+		},
+		AE_Effect_Global_OutFlags_2 {
+		0x00040008
+		},
+		
+		AE_Effect_Match_Name {
+			"XJ_CharterLINER"
+		},
+		
+		AE_Reserved_Info {
+			0
+		}
+	}
+};

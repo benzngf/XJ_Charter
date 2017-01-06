@@ -1,0 +1,484 @@
+
+
+
+
+16000  PiPL  DISCARDABLE
+BEGIN
+	0x0001,	 
+	0, 0x0, 	
+	12, 0x0, 
+	"MIB8",
+	"dnik", 
+	0, 0x0,
+	4, 0x0,
+	"TKFe",
+
+	"MIB8",
+	"eman",
+	0, 0x0,
+	12, 0x0,
+	"\x0AXJ_Charter\0", 
+
+	"MIB8",
+	"gtac", 
+	0, 0x0,
+	12, 0x0,
+	"\x08Generate\0\0\0", 
+
+	"MIB8",
+	"4668", 
+	0, 0x0,
+	16, 0x0,
+	"EntryPointFuncM\0", 
+
+	"MIB8",
+	"RVPe", 
+	0, 0x0,
+	4, 0x0,
+	2, 0,
+
+	"MIB8",
+	"RVSe", 
+	0, 0x0,
+	4, 0x0,
+	13, 2,
+
+	"MIB8",
+	0x65564552L, 
+	0L,
+	4L
+	525313L, 
+
+	"MIB8",
+	0x65494E46L, 
+	0L,
+	2L
+	0L, 
+
+	"MIB8",
+	"OLGe", 
+	0L,
+	4L,
+	0L, 
+
+	"MIB8",
+	"2LGe", 
+	0L,
+	4L,
+	0L, 
+
+	"MIB8",
+	"ANMe",
+	0, 0x0,
+	12, 0x0,
+	"\x0AXJ_Charter\0", 
+
+	"MIB8",
+	0x6165464CL, 
+	0L,
+	4L
+	0L, 
+
+
+END
+
+16001  PiPL  DISCARDABLE
+BEGIN
+	0x0001,	 
+	0, 0x0, 	
+	12, 0x0, 
+	"MIB8",
+	"dnik", 
+	0, 0x0,
+	4, 0x0,
+	"TKFe",
+
+	"MIB8",
+	"eman",
+	0, 0x0,
+	20, 0x0,
+	"\x11XJ_Charter Number\0\0", 
+
+	"MIB8",
+	"gtac", 
+	0, 0x0,
+	12, 0x0,
+	"\x09Xiao Juan\0\0", 
+
+	"MIB8",
+	"4668", 
+	0, 0x0,
+	16, 0x0,
+	"EntryPointFuncN\0", 
+
+	"MIB8",
+	"RVPe", 
+	0, 0x0,
+	4, 0x0,
+	2, 0,
+
+	"MIB8",
+	"RVSe", 
+	0, 0x0,
+	4, 0x0,
+	13, 2,
+
+	"MIB8",
+	0x65564552L, 
+	0L,
+	4L
+	525313L, 
+
+	"MIB8",
+	0x65494E46L, 
+	0L,
+	2L
+	0L, 
+
+	"MIB8",
+	"OLGe", 
+	0L,
+	4L,
+	2097152L, 
+
+	"MIB8",
+	"2LGe", 
+	0L,
+	4L,
+	0L, 
+
+	"MIB8",
+	"ANMe",
+	0, 0x0,
+	16, 0x0,
+	"\x0DXJ_CharterNUM\0\0", 
+
+	"MIB8",
+	0x6165464CL, 
+	0L,
+	4L
+	0L, 
+
+
+END
+
+16002  PiPL  DISCARDABLE
+BEGIN
+	0x0001,	 
+	0, 0x0, 	
+	12, 0x0, 
+	"MIB8",
+	"dnik", 
+	0, 0x0,
+	4, 0x0,
+	"TKFe",
+
+	"MIB8",
+	"eman",
+	0, 0x0,
+	24, 0x0,
+	"\x15XJ_Charter Bar Render\0\0", 
+
+	"MIB8",
+	"gtac", 
+	0, 0x0,
+	12, 0x0,
+	"\x09Xiao Juan\0\0", 
+
+	"MIB8",
+	"4668", 
+	0, 0x0,
+	16, 0x0,
+	"EntryPointFuncB\0", 
+
+	"MIB8",
+	"RVPe", 
+	0, 0x0,
+	4, 0x0,
+	2, 0,
+
+	"MIB8",
+	"RVSe", 
+	0, 0x0,
+	4, 0x0,
+	13, 2,
+
+	"MIB8",
+	0x65564552L, 
+	0L,
+	4L
+	525313L, 
+
+	"MIB8",
+	0x65494E46L, 
+	0L,
+	2L
+	0L, 
+
+	"MIB8",
+	"OLGe", 
+	0L,
+	4L,
+	2097156L, 
+
+	"MIB8",
+	"2LGe", 
+	0L,
+	4L,
+	0L, 
+
+	"MIB8",
+	"ANMe",
+	0, 0x0,
+	16, 0x0,
+	"\x0EXJ_CharterBARR\0", 
+
+	"MIB8",
+	0x6165464CL, 
+	0L,
+	4L
+	0L, 
+
+
+END
+
+16003  PiPL  DISCARDABLE
+BEGIN
+	0x0001,	 
+	0, 0x0, 	
+	12, 0x0, 
+	"MIB8",
+	"dnik", 
+	0, 0x0,
+	4, 0x0,
+	"TKFe",
+
+	"MIB8",
+	"eman",
+	0, 0x0,
+	24, 0x0,
+	"\x15XJ_Charter Pie Render\0\0", 
+
+	"MIB8",
+	"gtac", 
+	0, 0x0,
+	12, 0x0,
+	"\x09Xiao Juan\0\0", 
+
+	"MIB8",
+	"4668", 
+	0, 0x0,
+	16, 0x0,
+	"EntryPointFuncR\0", 
+
+	"MIB8",
+	"RVPe", 
+	0, 0x0,
+	4, 0x0,
+	2, 0,
+
+	"MIB8",
+	"RVSe", 
+	0, 0x0,
+	4, 0x0,
+	13, 2,
+
+	"MIB8",
+	0x65564552L, 
+	0L,
+	4L
+	525313L, 
+
+	"MIB8",
+	0x65494E46L, 
+	0L,
+	2L
+	0L, 
+
+	"MIB8",
+	"OLGe", 
+	0L,
+	4L,
+	2097156L, 
+
+	"MIB8",
+	"2LGe", 
+	0L,
+	4L,
+	0L, 
+
+	"MIB8",
+	"ANMe",
+	0, 0x0,
+	16, 0x0,
+	"\x0FXJ_CharterRINGR", 
+
+	"MIB8",
+	0x6165464CL, 
+	0L,
+	4L
+	0L, 
+
+
+END
+
+16004  PiPL  DISCARDABLE
+BEGIN
+	0x0001,	 
+	0, 0x0, 	
+	12, 0x0, 
+	"MIB8",
+	"dnik", 
+	0, 0x0,
+	4, 0x0,
+	"TKFe",
+
+	"MIB8",
+	"eman",
+	0, 0x0,
+	20, 0x0,
+	"\x11XJ_Charter Linker\0\0", 
+
+	"MIB8",
+	"gtac", 
+	0, 0x0,
+	12, 0x0,
+	"\x09Xiao Juan\0\0", 
+
+	"MIB8",
+	"4668", 
+	0, 0x0,
+	20, 0x0,
+	"EntryPointFuncLINK\0\0", 
+
+	"MIB8",
+	"RVPe", 
+	0, 0x0,
+	4, 0x0,
+	2, 0,
+
+	"MIB8",
+	"RVSe", 
+	0, 0x0,
+	4, 0x0,
+	13, 2,
+
+	"MIB8",
+	0x65564552L, 
+	0L,
+	4L
+	525313L, 
+
+	"MIB8",
+	0x65494E46L, 
+	0L,
+	2L
+	0L, 
+
+	"MIB8",
+	"OLGe", 
+	0L,
+	4L,
+	2097152L, 
+
+	"MIB8",
+	"2LGe", 
+	0L,
+	4L,
+	0L, 
+
+	"MIB8",
+	"ANMe",
+	0, 0x0,
+	16, 0x0,
+	"\x0EXJ_CharterLINK\0", 
+
+	"MIB8",
+	0x6165464CL, 
+	0L,
+	4L
+	0L, 
+
+
+END
+
+16005  PiPL  DISCARDABLE
+BEGIN
+	0x0001,	 
+	0, 0x0, 	
+	12, 0x0, 
+	"MIB8",
+	"dnik", 
+	0, 0x0,
+	4, 0x0,
+	"TKFe",
+
+	"MIB8",
+	"eman",
+	0, 0x0,
+	24, 0x0,
+	"\x16XJ_Charter Line Render\0", 
+
+	"MIB8",
+	"gtac", 
+	0, 0x0,
+	12, 0x0,
+	"\x09Xiao Juan\0\0", 
+
+	"MIB8",
+	"4668", 
+	0, 0x0,
+	16, 0x0,
+	"EntryPointFuncL\0", 
+
+	"MIB8",
+	"RVPe", 
+	0, 0x0,
+	4, 0x0,
+	2, 0,
+
+	"MIB8",
+	"RVSe", 
+	0, 0x0,
+	4, 0x0,
+	13, 2,
+
+	"MIB8",
+	0x65564552L, 
+	0L,
+	4L
+	525313L, 
+
+	"MIB8",
+	0x65494E46L, 
+	0L,
+	2L
+	0L, 
+
+	"MIB8",
+	"OLGe", 
+	0L,
+	4L,
+	2098180L, 
+
+	"MIB8",
+	"2LGe", 
+	0L,
+	4L,
+	262152L, 
+
+	"MIB8",
+	"ANMe",
+	0, 0x0,
+	16, 0x0,
+	"\x0FXJ_CharterLINER", 
+
+	"MIB8",
+	0x6165464CL, 
+	0L,
+	4L
+	0L, 
+
+
+END
+
