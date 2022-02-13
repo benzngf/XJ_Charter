@@ -1,4 +1,4 @@
-##An After Effects Plugin for Creating Charts
+## An After Effects Plugin for Creating Charts
 
 [![ScreenShot](https://img.youtube.com/vi/4mEvQbAaT2Y/hqdefault.jpg)](https://youtu.be/4mEvQbAaT2Y)
 
